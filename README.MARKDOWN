@@ -1,0 +1,1 @@
+Ruby on the rails trial application
